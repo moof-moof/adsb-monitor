@@ -21,6 +21,6 @@ A simple ADS-B monitoring system using an RTL-SDR dongle, a Raspberry Pi and the
 
 ***
 
-See project's write-up at https://sites.google.com/site/xnebmisc/home/ads-b
+See project's write-up at http://xneb.org/mabe/xnebmisc/home/ads-b.html or https://sites.google.com/view/xneb-project-logs/home/ads-b
 
 ![](./img/OBAH1054.jpg) 
